@@ -13,3 +13,6 @@ To make it a bit more structured, i dcedided to rename the Dockerfiles to its co
 
 
 
+<h2> Results </h2>
+If possible, the code was seeded so to make reproducability more reliable. This does not mean, that it is fully reproducible and therefore Results may very!
+To provide a foundation for the corresponding paper, the results are archived under the folder "results"
