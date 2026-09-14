@@ -1,6 +1,6 @@
 <h1> Benchmark-AutoML_Gutenberg-Gait </h1>
-This is a quick roundup of what you need to know to runt he benchmark itself. Frommy owne xerpience, this will take roughly 4 hours to setup and 20 hours to run.
-All scripts have been numbered according to their chronological usage. It is important to note, that the helper scripts "persistent_predict_server_..." are not enumerated and are not activly run, instead only initialised.
+This is a quick roundup of what you need to know to run the benchmark itself. From my own xerpience, this will take roughly 4 hours to setup and 20 hours to run (60% Fitting, 40% SHAP).
+All scripts have been numbered according to their chronological usage. It is important to note, that the helper scripts "persistent_predict_server_..." are not enumerated and are not activly run, instead only initialised using Docker.
 
 <h2> Using Docker to run the Benchmark </h2>
 
