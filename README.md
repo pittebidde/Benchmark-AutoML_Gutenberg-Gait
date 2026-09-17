@@ -4,7 +4,8 @@ All scripts have been numbered according to their chronological usage. It is imp
 
 To provide a foundation for the corresponding paper, the results for the paper are archived under the folder "results".
 The folder provides all benchmarks and importance_long, the final results from which the findings of the paper can be reconstructed.
-The results from the benchmark itself can be run through "03_benchmark-visualization", while the archived Shap results have a helper script in its results folder "shap_analysis_paper.ipynb".
+The results from the benchmark itself can be seen through "03_benchmark-visualization", while the archived Shap results have a helper script in its results folder "shap_analysis_paper.ipynb".
+Every other script output was wiped, since i ran the benchmark multiple times under differnt limitations and therefore each subsequent run would produce minuscule different results, which would be confusing.
 
 <h2> Benchmarking </h2>
 If possible, the code was seeded so to make reproducability more reliable. This does not mean, that it is fully reproducible and therefore results may very!
