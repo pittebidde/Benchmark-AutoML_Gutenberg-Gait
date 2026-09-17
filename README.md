@@ -24,3 +24,5 @@ The benchmark is build as a Windows-Linux function, meaning that the SHAP enviro
 
 
 
+ AI usage 
+00 and 01 have been written partyl by AI, while the other scripts have been written significantly by AI and changed/ refactored.
